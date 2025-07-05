@@ -18,3 +18,5 @@ The `main` function orchestrates the entire process by calling the two core func
 Overall, this program serves as a concise and functional demonstration of file I/O operations and basic data compression in C. It introduces key programming concepts such as string manipulation, character processing, and file stream management. While the RLE algorithm used here is simple, it lays the groundwork for understanding more advanced compression techniques and can be adapted for larger-scale applications. This makes the program a valuable resource for students and developers exploring the fundamentals of data compression and file handling in C.
 
 #OUTPUT:-
+<img width="1918" height="1020" alt="Image" src="https://github.com/user-attachments/assets/4dc92493-1309-40a2-8402-0dae41af7c71" />
+<img width="1911" height="1020" alt="Image" src="https://github.com/user-attachments/assets/58e8098d-84ad-47db-90cd-d9c41a6386be" />
